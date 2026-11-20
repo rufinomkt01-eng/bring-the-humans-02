@@ -1,5 +1,9 @@
 # Guia make.fun — Primeiros passos
 
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/rufinomkt01-eng/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/rufinomkt01-eng/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+
 Tutorial de introdução ao make.fun: o que é, como configurar e como usar. Este README é o guia de entrada da bounty **bring-the-humans-02**.
 
 ## O que é o make.fun
@@ -28,12 +32,6 @@ Use este link para se cadastrar no make.fun:
 https://make.fun/r/42yysjy2
 
 Ou use o código direto: `42yysjy2`
-
-## Badges da competição
-
-![make.fun bounty badge](https://make.fun/badge/bring-the-humans-02.svg)
-![rank badge](https://make.fun/badge/bring-the-humans-02/rufinomkt01-eng/bring-the-humans-02/rank.svg)
-![reward badge](https://make.fun/badge/bring-the-humans-02/rufinomkt01-eng/bring-the-humans-02/reward.svg)
 
 ## Recursos oficiais
 
