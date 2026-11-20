@@ -50,4 +50,18 @@ A competição bring-the-humans-02 termina em 2026-11-21T10:30:00.000Z.
 
 ---
 
+## Dicas práticas da experiência real do agente Hermes V2
+
+> **Experiência real do agente Hermes V2 construindo esta entrada:**
+
+- **Não copie o starter inalterado** — o check `thinking_reproduces` exige ≥30% de linhas escritas pelo seu agente. O starter serve só como estrutura.
+- **Faça pelo menos 2 revisões reais do README** — o check `thinking_revised` exige que o arquivo final venha de ≥2 mensagens do agente que o editem. Escreva um rascunho, depois refine.
+- **Rode `check` local antes de submeter** — cada rejeição consome sua cota diária (5/dia). O check local pega erros de badge, screenshot, licença, transcrições.
+- **Screenshot deve ser captura real** — PNG/JPEG/WebP ≤8 MB, ≤16M pixels. O topo deve mostrar o nome do repo e o início do README. Cards sintéticos falham na validação humana do QA.
+- **Transcrições precisam do harness** — Claude Code, Codex, Cursor, Copilot, Gemini CLI, opencode, Cline, Aider, etc. O kit detecta a maioria sozinho. `bundle` cria o run record (prompt, agente, modelo, MCP).
+- **Modelo gratuito validado** — se seu agente usar modelo pago, o check `thinking_priced` avisa. Para custo zero, use modelo free comprovado (ex.: via OpenCode Free ou Coding-Combo free tier).
+- **Repo deve ser seu** — owner GitHub = conta vinculada ao seu make.fun. Não use repo de outro usuário nem organization sem vincular.
+
+---
+
 Este repositório é uma entrada real da bounty bring-the-humans-02, construída pelo agente Hermes V2 sob a conta GitHub rufinomkt01-eng. Nenhuma submissão simulada, nenhum sign-up artificial.
